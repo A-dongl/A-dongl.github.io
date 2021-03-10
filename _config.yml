@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: A-dongl
-google_analytics: dbyll
+google_analytics: A-dongl
 title: A-dongl
 
 defaults:
@@ -17,12 +17,11 @@ defaults:
       title: A-dongl
 
 description: Stylish Jekyll Theme
-author:
+author: 
   name: Lee ByeongHoon
   email: bhlee1120@gmail.com
   github: A-dongl
-  twitter: dbtek
-  bio: Your stylish, minimalist theme!
+  bio: Do your best!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
